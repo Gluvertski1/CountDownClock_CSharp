@@ -1,0 +1,6 @@
+c:\users\jared\documents\visual studio 2013\Projects\CountDownClock\CountDownClock\bin\Debug\CountDownClock.exe.config
+c:\users\jared\documents\visual studio 2013\Projects\CountDownClock\CountDownClock\obj\Debug\CountDownClock.csprojResolveAssemblyReference.cache
+c:\users\jared\documents\visual studio 2013\Projects\CountDownClock\CountDownClock\bin\Debug\CountDownClock.exe
+c:\users\jared\documents\visual studio 2013\Projects\CountDownClock\CountDownClock\bin\Debug\CountDownClock.pdb
+c:\users\jared\documents\visual studio 2013\Projects\CountDownClock\CountDownClock\obj\Debug\CountDownClock.exe
+c:\users\jared\documents\visual studio 2013\Projects\CountDownClock\CountDownClock\obj\Debug\CountDownClock.pdb
